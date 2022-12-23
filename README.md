@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/web_102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +35,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+At the first of the challenge everything was going smooth until i got to 
+challenge 6. i kind of knew what i was suppose to do but the question was really confusing. it says to find the sum of the numbers and i was thing to add up the indexes but the answer was really to find the length of the results in the array.
 
 ## License
 
